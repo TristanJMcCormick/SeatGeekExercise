@@ -1,0 +1,6 @@
+So I don't actually know that much about compilers and I definitely don't know
+much about building c programs. But I know that running
+  "g++ -o datasync DataCenterScramble.c"
+compiles DataCenterScramble.c and writes the output to file DataCenterScramble
+and that you can then run the compiled program with ./DataCenterScramble. So,
+I hope that's enough!

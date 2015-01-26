@@ -45,12 +45,12 @@ public class jumblesort
     {
       if(datatypeAtIndexIsInt[i])
       {
-        jumbleSortedString.append(intsFromInput.poll() + "x");
+        jumbleSortedString.append(intsFromInput.poll() + " ");
         // intCounter++;
       }
       else
       {
-        jumbleSortedString.append(stringsFromInput.poll() + "x");
+        jumbleSortedString.append(stringsFromInput.poll() + " ");
         // stringCounter++;
       }
     }
